@@ -3,7 +3,7 @@ I'm Ághata, a <strong>Front-End Developer</strong>.
 
 I'm interested in building accessible and reponsive WebApps.
 
-- 🔭  Currently working with: 
+- Currently working with: 
    
 
    <img
@@ -27,7 +27,7 @@ I'm interested in building accessible and reponsive WebApps.
     alt="bootstrap"
     style="display: inline-block; width: 32px">
 
-- 🌱 I've been learning: 
+- I've been learning: 
 
     <img
     src="react.svg"
