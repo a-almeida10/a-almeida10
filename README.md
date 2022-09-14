@@ -35,7 +35,13 @@ I'm interested in building accessible and reponsive WebApps.
     style="display: inline-block; width: 32px">
   <hr>
 
+Contact me: <a href="https://www.linkedin.com/in/aghata-almeida/" target="_blank"> 
   
+  <img
+    src="linkedin.svg"
+    alt="linkedin"
+    style="display: inline-block; width: 70px">
+    </a>
   
   
   
